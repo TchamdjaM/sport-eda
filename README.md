@@ -1,4 +1,4 @@
-## Projet – Créer l’équipe de foot idéale Par Tchamdja Mélissa
+# Projet – Créer l’équipe de foot idéale Par Tchamdja Mélissa
 
 Durée : 1 semaine 
 
@@ -15,14 +15,14 @@ Un rapport d’analyse détaillant les raisons du choix, incluant :
 - Les comparaisons entre plusieurs joueurs pour un même poste. 
 - L’impact potentiel de la constitution de votre équipe sur les performances globales. 
 
-## Les données disponibles: 
+# Les données disponibles: 
 statistiques et informations sur les joueurs issus de la base de données EA SPORTS FC 25, incluant : • Caractéristiques physiques (taille, poids, etc.) • Positionnement et polyvalence (position principale et alternative) • Attributs offensifs et défensifs (vitesse, finition, interceptions, etc.) • Compétences techniques (dribbles, contrôle du ballon, passes longues, etc.) • Mentalité (calme, agressivité, réactions) • Endurance et forme physique (stamina, force) 
 
 # Sources: 
 Plus d’informations ici : 
 https://www.kaggle.com/datasets/nyagami/ea-sports-fc-25-database-ratings-and-stats 
 
-## Étapes de travail:
+# Étapes de travail:
 
 Exploration des données : Se Familiariser avec le dataset pour comprendre les statistiques disponibles.
 Analyse et visualisation : Utiliser des outils d’analyse comme Pandas, Matplotlib ou Seaborn pour comparer les joueurs selon leurs positions et compétences.
