@@ -1,14 +1,12 @@
 # Projet – Créer l’équipe de foot idéale Par Tchamdja Mélissa
 
-Durée : 1 semaine 
-
 # Introduction:
 
 Félicitations ! Vous venez d’être embauchés en tant que data analyst par un nouveau club de football ambitieux. Votre première mission est cruciale : constituer les meilleures équipes masculines et féminines à partir de la base de données des joueurs de EA SPORTS FC 25. Objectif Votre objectif est simple, mais le chemin pour y arriver nécessite une analyse minutieuse des données. Vous devrez analyser les statistiques des joueurs et proposer deux équipes idéales : l'une pour les hommes, l'autre pour les femmes, en tenant compte des différentes positions sur le terrain et des attributs qui rendent chaque joueur unique. 
 
 ## Livrables attendus:
 
-Deux équipes complètes (une masculine et une féminine) composées chacune de 11 titulaires (1 gardien, 4 défenseurs, 4 milieux, 2 attaquants) et 5 remplaçants.
+Deux équipes complètes (une masculine et une féminine) composées chacune de 11 titulaires (1 gardien, 4 défenseurs, 4 milieux, 2 attaquants) et 5 remplaçants. 
 
 Un rapport d’analyse détaillant les raisons du choix, incluant :  
 - Les critères utilisés pour sélectionner les joueurs (attributs clés, stratégie d’équipe). 
@@ -32,6 +30,7 @@ Justification : Chaque choix de joueur doit être justifié par des données (ex
 # Outils utilisés:
 - Python (Pandas pour l’analyse de données, Matplotlib/Seaborn pour les visualisations). 
 - Jupyter Notebook pour présenter le travail.
+- Rapport Power BI
 
 # Critères d’évaluation 
 - Qualité de l'analyse des données et pertinence des critères utilisés. 
